@@ -138,17 +138,7 @@ ________________________________________
 
 While this script serves as an educational tool, it's important to understand that brute-forcing private keys or addresses is not a viable method for accessing cryptocurrency funds due to the vastness of the address space.
 ________________________________________
-*Give Back to the Developer*
 
-If you find this tool helpful and would like to support the ongoing development, consider contributing in the following ways:
-
-•	Star the Repository: If you're using this project, please give it a star on GitHub! Your support motivates further development.
-
-
-•	Donate: If you wish to make a donation to support future projects and updates, please consider using https://ko-fi.com/powerwellnessdaily
-
-•	Feedback: Share your experiences, suggestions, or improvements by opening an issue or contributing directly to the codebase. Your feedback is invaluable!
-________________________________________
 *⚠ DISCLAIMER ⚠*
 
 This script is provided for educational and research purposes only. The author and contributors are not responsible for any misuse of this tool.
